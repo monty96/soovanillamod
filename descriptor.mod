@@ -1,0 +1,14 @@
+version="1.9.3"
+tags={
+	"Balance"
+	"Gameplay"
+	"Historical"
+}
+name="SOO"
+replace_path="map/strategicregions"
+replace_path="gfx/loadingscreens"
+replace_path="history/states"
+replace_path="history/countries"
+replace_path="history/units"
+supported_version="1.9.3"
+remote_file_id="2193171188"
